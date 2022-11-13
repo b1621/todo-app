@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h2>Todo App</h2>
+    <a href="add.php">add</a>
 </body>
 </html>
